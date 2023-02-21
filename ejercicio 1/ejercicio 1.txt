@@ -1,3 +1,3 @@
-Un método recursivo es un método que se llama a sí mismo para resolver un problema. 
+La recursividad es un proceso por el cual una función o método se llama a sí mismo una y otra vez. 
 En un método recursivo, se divide el problema en subproblemas más pequeños hasta que se alcanza un caso base que puede ser resuelto de manera fácil y eficiente.
 Luego, se combinan los resultados de los subproblemas para obtener la solución final del problema original.
